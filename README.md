@@ -17,11 +17,13 @@
 
 ## Installation
 
-  no need for any installation. You can get started by clicking the link provided and you will be navigated to the application.
+  no need for any installation. You can get started by clicking the link provided [here](https://github.com/j-sniff) and you will be navigated to the application.
 
 ## Usage
 
   Type in the title and description of your reminder and click save. The application will remember your task until you have completed it. Once you have completed your task you can simply delete it with the trashcan icon.
+
+  ![alt text](public/assets/pics/RemindMe_Home.png)
   
 ## License
 

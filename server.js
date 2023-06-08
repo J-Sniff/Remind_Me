@@ -20,7 +20,7 @@ app.post("/api/notes", (req, res) => {
     content,
   };
 
-  // Add the new note to the array or your data source
+  // Add the new note to the array
   notes.push(newNote);
 
   // Send a response indicating success
